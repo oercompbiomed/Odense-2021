@@ -1,2 +1,2 @@
-# Odense Summer School in Computational Proteoimcs 2021
+# Odense Summer School in Computational Proteomics 2021
 
