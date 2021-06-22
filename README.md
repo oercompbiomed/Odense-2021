@@ -17,7 +17,7 @@ Students will apply their previous knowledge to identify relevant and realistic 
 
 Please get familiar with the following material and platforms:
 
-**Group work**
+**Group work**<br/>
 TODO
 
 **Basics in Proteomics**<br/>
