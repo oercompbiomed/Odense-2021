@@ -1,7 +1,7 @@
 # Odense Summer School in Computational Proteomics 2021
 ![Workflow](./assets/MSWorkflow2.png)
 
-Seili – 2021 is part of the “Open Educational Resources in Computational Biomedicine” (OERCompBiomed) project conducted by NordBioMed.org and funded by Erasmus+.
+Odense – 2021 is part of the “Open Educational Resources in Computational Biomedicine” (OERCompBiomed) project conducted by NordBioMed.org and funded by Erasmus+.
 
 NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more comparative by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organizes intensive courses and develops a virtual online teaching and information platform on the OpenedX platform, supported by a GitHub repository. The topic for the 2021 Summer school is computational proteomics.
 
