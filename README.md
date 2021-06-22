@@ -18,7 +18,7 @@ Students will apply their previous knowledge to identify relevant and realistic 
 Please get familiar with the following material and platforms:
 
 **Group work**<br/>
-TODO
+Here you will learn about getting most from the group work: https://rise.articulate.com/share/YOSU8I4BZjkJZK4_KUlIjcvBVzBMvs1x
 
 **Basics in Proteomics**<br/>
 Enroll into the "Computational Proteomics Course" (you need to sign up) and finish "Brush-up: The Basics of Proteomics and Mass Spectrometry"
