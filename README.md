@@ -28,6 +28,8 @@ The courses is located on our Open Edx platforms: http://training.bmb.sdu.dk/cou
 A short introduction to programming and how to prepare yourself and
 your computer for the computational exercises at the Summer School https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
+We expect you to have a working Jupyter environment with Python and R kernels.
+
 **Online platform (potential)**
 We will try out the AirMeet platform that allows a more conference-like environment and increased social interactions: link TBA
 
