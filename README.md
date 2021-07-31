@@ -5,7 +5,7 @@ Odense – 2021 is part of the “Open Educational Resources in Computational Bi
 
 NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more comparative by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organizes intensive courses and develops a virtual online teaching and information platform on the OpenedX platform, supported by a GitHub repository. The topic for the 2021 Summer school is computational proteomics.
 
-For the official program, see https://nordbiomed.org/wp-content/uploads/2021/05/NordBioNet-Summer-School-2021-Computational-Proteomics-programme.pdf
+For the official program, see https://nordbiomed.org/wp-content/uploads/2021/05/NordBioNet-Summer-School-2021-Computational-Proteomics-programme_210719.pdf
 
 **The topic for the 2020 Summer school is computational proteomics. This year the course will virtual due to the current situation with COVID-19.**
 
